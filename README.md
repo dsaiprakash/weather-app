@@ -4,7 +4,7 @@
 
 Atmosphere is an elegant, feature-rich weather application that provides real-time weather information and forecasts with a visually stunning interface. This modern web application delivers a seamless user experience with intuitive controls, dynamic theming based on weather conditions, and comprehensive weather data visualization.
 
-![Atmosphere Weather App Screenshot](screenshot.png)
+![Atmosphere Weather App Screenshot](https://github.com/dsaiprakash/weather-app/blob/407460cee2eb9f2e19cc6a939138c78fc67c43a0/Screenshot.png)
 
 ## Features
 
